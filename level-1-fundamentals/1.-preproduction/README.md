@@ -17,3 +17,7 @@ We start with showing you the fundamentals of video review. We will dive into ho
 * **Seek Mentorship:** Start strong by connecting with institutions that have established, successful video review programs. Their guidance, support, and potential for resource sharing will streamline your implementation. You can find centers who have experience with video review [here](1.9-learning-from-success-stories.md),&#x20;
 * **Share Your Learnings:** As your own program progresses, pay it forward. Share your insights and best practices with the wider community of medical professionals invested in video review. This collaboration drives innovation and improves the field overall. You can share your experiences [here](1.10-shared-your-learnings.md).&#x20;
 * **Collaborative Problem-Solving:** Build a network of peers. Together, you'll tackle common challenges in video review implementation and optimization, generating creative solutions that benefit everyone. Take a look at our [Neoflix Community](../../level-3-growth/13.-expanding-your-video-program/13.1-revolutionize-reflection-in-medical-care-join-the-network.md).
+
+### Highlight of Preproduction
+
+The most important section of this level is [1.7 Safe, Simple & Small](1.7-safe-simple-and-small/). Here, we will explain how implementation has to be focused on safety, simplicity, and manageable scale of video review.&#x20;

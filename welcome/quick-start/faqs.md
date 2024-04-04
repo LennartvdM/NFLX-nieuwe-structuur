@@ -84,7 +84,7 @@ You can [expand video review](../../level-3-growth/12.-continuous-improvement.md
 
 **How do you use video reflection to improve quality (effectiveness)?**
 
-* **Answer:** [Identify actionable insights from discussions, develop and implement improvement plans, track changes or outcomes to evaluate success.](../../level-2-in-action/8.-improving-care-through-video/)
+* **Answer:** [Identify actionable insights from discussions, develop and implement improvement plans, track changes or outcomes to evaluate success.](../../level-2-in-action/8.-improving-care-through-neoflix/)
 
 **Can you perform multi-center video reflection without feeling judged?**
 

@@ -1,6 +1,6 @@
 # Quick-start
 
-e get it – the idea of adding video review to your already hectic routine can be daunting. But remember, the key is to start small, get comfortable, and see immediate benefits. Our Quick Start guide will equip you with the essentials. Here's how to jump right in:
+We get it – the idea of adding video review to your already hectic routine can be daunting. But remember, the key is to start small, get comfortable, and see immediate benefits. Our Quick Start guide will equip you with the essentials. Here's how to jump right in:
 
 ## **Your Quick Start Guide to Video Review**
 

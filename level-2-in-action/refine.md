@@ -16,3 +16,7 @@ In addition, we'll delve deeper into how video review can serve as a powerful to
 * **Implementing Change:** Leverage video review as a tool to drive positive change in your healthcare setting.
 
 By effectively utilizing your video review findings, you can create a tangible impact on patient care delivery.
+
+### Highlights of Refine
+
+The most important section of this level is [Improving Care through Neoflix](8.-improving-care-through-neoflix/). Here, we will explain how you can translate insights from Neoflix into tangible changes that can ultimately lead to improvement of care.&#x20;
