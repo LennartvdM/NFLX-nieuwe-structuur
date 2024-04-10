@@ -8,11 +8,15 @@ We understand that adding anything to the already overloaded schedules of health
 
 ## **The Power of **_**Neoflix**_
 
-This toolbox provides a step-by-step guide for setting up your video review program. First, you'll learn video review [fundamentals](broken-reference), then you will dive into the Neoflix 'Record, Reflect, Refine' approach.
+This toolbox provides a step-by-step guide for setting up your video review program. First, you'll learn video review [fundamentals](broken-reference), then you will dive into the Neoflix '[Record, Reflect, Refine](broken-reference)' approach.
+
+### [Fundamentals](broken-reference)&#x20;
+
+When implementing video review, prioritize building your Neoflix team and keeping the process safe, simple, and initially small-scale.
 
 ### [<mark style="color:blue;">**Record**</mark>](../../level-2-in-action/record.md)
 
-Don't let the perceived complexity deter you. Modern technology makes [recording procedures](../../level-2-in-action/3.-equipment/) surprisingly simple. Whether you use a smartphone, specialized glasses, or a fixed camera, the process is more streamlined than you might expect. With careful planning and [team buy-in](../../level-1-fundamentals/1.-preproduction/1.5-pioneer-team.md#fostering-engagement), privacy and time concerns can be addressed effectively. View video review as an exciting opportunity to shape the future of healthcare, train new professionals, and optimize your team's collaboration.
+Don't let the perceived complexity deter you. Modern technology makes [recording procedures](broken-reference) surprisingly simple. Whether you use a smartphone, specialized glasses, or a fixed camera, the process is more streamlined than you might expect. With careful planning and [team buy-in](../../level-1-fundamentals/2.-planning-your-initiative/2.1-pioneer-team.md#fostering-engagement), privacy and time concerns can be addressed effectively. View video review as an exciting opportunity to shape the future of healthcare, train new professionals, and optimize your team's collaboration.
 
 ### [<mark style="color:blue;">**Reflect**</mark>](../../level-2-in-action/reflect.md)
 
@@ -20,7 +24,7 @@ Video review transcends individual learning. It's a powerful tool for fostering 
 
 ### [<mark style="color:blue;">**Refine**</mark>](../../level-2-in-action/refine.md)
 
-By reviewing medical procedures with the entire team, you create a space to combine individual strengths and perspectives. Video analysis allows for [pinpointing areas for improvement](../../level-3-growth/12.-continuous-improvement.md). Therefore, video review empowers providers to address those areas for improvement in care, ultimately enhancing quality.&#x20;
+By reviewing medical procedures with the entire team, you create a space to combine individual strengths and perspectives. Video analysis allows for [pinpointing areas for improvement](../../level-3-growth/16.-continuous-improvement.md). Therefore, video review empowers providers to address those areas for improvement in care, ultimately enhancing quality.&#x20;
 
 **Successful video review requires careful integration into your department's routine and involvement from all disciplines. Therefore, it is important to consider the fundamentals of implementing video review first. Let's get started!**
 

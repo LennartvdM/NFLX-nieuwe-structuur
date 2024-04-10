@@ -19,4 +19,4 @@ By effectively utilizing your video review findings, you can create a tangible i
 
 ### Highlights of Refine
 
-The most important section of this level is [Improving Care through Neoflix](8.-improving-care-through-neoflix/). Here, we will explain how you can translate insights from Neoflix into tangible changes that can ultimately lead to improvement of care.&#x20;
+The most important section of this level is [Improving Care through Neoflix](12.-improving-care-through-neoflix/). Here, we will explain how you can translate insights from Neoflix into tangible changes that can ultimately lead to improvement of care.&#x20;

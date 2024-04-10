@@ -8,4 +8,4 @@ Ready to start recording? This section covers everything you need to know about 
 
 ### Highlight of Record
 
-The most important section of this level is [2.1 Preparation and consent](2.-preparation-and-consent/). Here, we will explain how a triple-consent procedure for providers enhances safety and acceptation of video review for providers. &#x20;
+The most important section of this level is [2.1 Preparation and consent](5.-preparation-and-consent/). Here, we will explain how a triple-consent procedure for providers enhances safety and acceptation of video review for providers. &#x20;

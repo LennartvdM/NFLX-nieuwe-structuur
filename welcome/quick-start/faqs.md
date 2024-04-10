@@ -6,7 +6,7 @@
 
 **What happens if a mistake is recorded?**
 
-* **Answer:** Mistakes should be reported regardless of video evidence. Clarify your hospital's incident reporting protocols. Regarding legal use of the video, consult legal experts as regulations vary by region. Emphasize that the video's primary purpose is for internal learning and quality improvement and recordings are not used for any other purpose. The [NICU at LUMC](../../level-1-fundamentals/1.-preproduction/1.9-learning-from-success-stories.md#nicu-lumc) has made video recordings of resuscitation procedures a standard part of care and also part of the patient file, so these videos are visible to patients.
+* **Answer:** Mistakes should be reported regardless of video evidence. Clarify your hospital's incident reporting protocols. Regarding legal use of the video, consult legal experts as regulations vary by region. Emphasize that the video's primary purpose is for internal learning and quality improvement and recordings are not used for any other purpose. The [NICU at LUMC](../../level-1-fundamentals/4.-learning-from-success-stories/#nicu-lumc) has made video recordings of resuscitation procedures a standard part of care and also part of the patient file, so these videos are visible to patients.
 
 **How do you make it GDPR compliant?**
 
@@ -24,7 +24,7 @@
 
 **How do you ask healthcare workers for consent?**
 
-* **Answer:** We would recommend [to emphasize voluntary participation](../../level-1-fundamentals/1.-preproduction/1.7-safe-simple-and-small/safe/), explain the benefits, outline video usage (quality improvement, not performance evaluation), and give them control: consent to film, consent to review, consent to use in _Neoflix_.
+* **Answer:** We would recommend [to emphasize voluntary participation](../../level-1-fundamentals/3.-safe-simple-and-small/3.1-safe.md), explain the benefits, outline video usage (quality improvement, not performance evaluation), and give them control: consent to film, consent to review, consent to use in _Neoflix_.
 
 </details>
 
@@ -34,15 +34,15 @@
 
 **How do you involve nurses?**
 
-* **Answer:** [Schedule video reflection](../../level-1-fundamentals/1.-preproduction/1.4-planning-your-initiative.md) around nursing shifts and accommodate their input in the process.
+* **Answer:** [Schedule video reflection](../../level-1-fundamentals/2.-planning-your-initiative/) around nursing shifts and accommodate their input in the process.
 
 **What kind of equipment do you use? Can you also use additional signals (CTG, respiratory parameters, etc.)?**
 
-* **Answer:** Start [simple](../../level-1-fundamentals/1.-preproduction/1.7-safe-simple-and-small/simple/) (phone for practice), progress to dedicated cameras (GoPro). For syncing other signals, you'd likely need specialized software/hardware – this is an area for technical exploration.
+* **Answer:** Start [simple](../../level-1-fundamentals/3.-safe-simple-and-small/3.2-simple.md) (phone for practice), progress to dedicated cameras (GoPro). For syncing other signals, you'd likely need specialized software/hardware – this is an area for technical exploration.
 
 **What can be challenging in rolling out/implementing this project?**
 
-* [**Getting the team to turn on a camera**](../../level-2-in-action/3.-equipment/3.1-any-device/recording-equipment.md)**:** At some point, this becomes more automatic, but it remains an extra step providers have to take in what is sometimes an "acute" setting,
+* [**Getting the team to turn on a camera**](../../level-2-in-action/6.-recording-equipment/)**:** At some point, this becomes more automatic, but it remains an extra step providers have to take in what is sometimes an "acute" setting,
 
 **How do you store the videos?**
 
@@ -50,7 +50,7 @@
 
 **How do you inform a team when setting up Neoflix?**
 
-* **Answer:** Be [transparent about goals, benefits, and the emphasis on non-judgmental learning](../../level-1-fundamentals/1.-preproduction/1.6-gaining-team-buy-in.md). Start small, get early wins, and build enthusiasm.
+* **Answer:** Be [transparent about goals, benefits, and the emphasis on non-judgmental learning](../../level-1-fundamentals/2.-planning-your-initiative/2.2-gaining-team-buy-in.md). Start small, get early wins, and build enthusiasm.
 
 **How much does it cost?**
 
@@ -58,11 +58,11 @@
 
 **How do you ensure a team films videos? Who picks up the camera? How do you start?**
 
-* **Answer:** [Team leaders model enthusiasm and initiate recordings](../../level-1-fundamentals/1.-preproduction/1.5-pioneer-team.md). Make the process easy with clear instructions.
+* **Answer:** [Team leaders model enthusiasm and initiate recordings](../../level-1-fundamentals/2.-planning-your-initiative/2.1-pioneer-team.md). Make the process easy with clear instructions.
 
 **How can you set up and expand video review? At what pace?**
 
-You can [expand video review](../../level-3-growth/12.-continuous-improvement.md) at the pace of the healthcare workers. It's important not to make them feel like it's being imposed on them. If they see the value themselves, they will naturally become enthusiastic and come up with their own ideas that can be used to implement video reflection.
+You can [expand video review](../../level-3-growth/16.-continuous-improvement.md) at the pace of the healthcare workers. It's important not to make them feel like it's being imposed on them. If they see the value themselves, they will naturally become enthusiastic and come up with their own ideas that can be used to implement video reflection.
 
 </details>
 
@@ -72,23 +72,23 @@ You can [expand video review](../../level-3-growth/12.-continuous-improvement.md
 
 **Who guides video review?**
 
-* **Answer:** The[ chair](../../level-2-in-action/7.-lets-neoflix/7.2-tasks-of-the-chair.md) of the video review session. Representatives from all disciplines lead to more comprehensive discussions. Train them in facilitation and constructive feedback.
+* **Answer:** The[ chair](../../level-2-in-action/11.-lets-neoflix/11.2-tasks-of-the-chair.md) of the video review session. Representatives from all disciplines lead to more comprehensive discussions. Train them in facilitation and constructive feedback.
 
 **How do you edit videos to make them usable for video reflection? How do you ensure integration with software?**
 
-* **Answer:** Basic [editing](../../level-2-in-action/5.-after-the-intervention/5.2-simple-video-editing.md) is possible with many software options. For advanced features, a dedicated video editing suite might be needed. Integration with patient monitoring systems would need custom programming.
+* **Answer:** Basic [editing](../../level-2-in-action/9.-after-the-intervention/9.2-simple-video-editing.md) is possible with many software options. For advanced features, a dedicated video editing suite might be needed. Integration with patient monitoring systems would need custom programming.
 
 **How do you organize video reflection in a way that is safe and effective?**
 
-* **Answer:** Organizing video review with regards to the [safe learning environment](../../level-2-in-action/7.-lets-neoflix/7.1-a-safe-learning-environment.md) included clear feedback rules (specific, non-judgmental), skilled chairperson to guide discussions, time management, and focused preparation for each video segment.
+* **Answer:** Organizing video review with regards to the [safe learning environment](../../level-2-in-action/11.-lets-neoflix/11.1-a-safe-learning-environment.md) included clear feedback rules (specific, non-judgmental), skilled chairperson to guide discussions, time management, and focused preparation for each video segment.
 
 **How do you use video reflection to improve quality (effectiveness)?**
 
-* **Answer:** [Identify actionable insights from discussions, develop and implement improvement plans, track changes or outcomes to evaluate success.](../../level-2-in-action/8.-improving-care-through-neoflix/)
+* **Answer:** [Identify actionable insights from discussions, develop and implement improvement plans, track changes or outcomes to evaluate success.](../../level-2-in-action/12.-improving-care-through-neoflix/)
 
 **Can you perform multi-center video reflection without feeling judged?**
 
-* **Answer:** Yes, with thorough preparation, ground rules, and a facilitator focused on collaborative learning, not criticism. Consider that a mistake as something that doesn't work and has reasons that can potentially be addressed. Or better yet, why does it usually go well? And [from that perspective, look at why something goes wrong.](../../level-1-fundamentals/1.-preproduction/1.2-beyond-the-procedure.md#taking-a-different-approach)
+* **Answer:** Yes, with thorough preparation, ground rules, and a facilitator focused on collaborative learning, not criticism. Consider that a mistake as something that doesn't work and has reasons that can potentially be addressed. Or better yet, why does it usually go well? And [from that perspective, look at why something goes wrong.](../../level-1-fundamentals/1.-preproduction/1.1-beyond-the-procedure.md#taking-a-different-approach)
 
 **How do you keep video reflection running?**
 

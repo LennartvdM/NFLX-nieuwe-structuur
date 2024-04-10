@@ -1,6 +1,6 @@
 # Who is this for?
 
-This toolbox is for those who believe that the pursuit of excellence in medicine is never-ending. It's designed with a variety of healthcare professionals in mind:
+This toolbox is for those committed to providing the best possible care through continuous learning in medicine. It's designed with a variety of healthcare professionals in mind:
 
 * **Frontline Providers:** Any medical professional involved in direct patient care, including consultants, surgeons, physicians, nurses, technicians, and trainees. This group benefits from refining individual skills, deepening procedural understanding, and fostering open communication within their teams.
 * **Educators and Mentors:** Those committed to creating a dynamic learning environment where both successes and challenges are embraced as growth opportunities.
