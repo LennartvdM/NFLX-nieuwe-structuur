@@ -2,7 +2,7 @@
 description: NICU LUMC
 ---
 
-# 12.1 The Neoflix approach
+# 13.1 The Neoflix approach
 
 Based on video review, the _Neoflix_ team in the LUMC's NICU identified three core components that contributed to improving neonatal procedures:
 
@@ -12,10 +12,10 @@ Based on video review, the _Neoflix_ team in the LUMC's NICU identified three co
 
 The following actions or interventions were defined for the _Neoflix_ project:
 
-1. [**Guideline/Equipment Adjustments**](12.2-protocol-or-equipment-adjustment.md)**:** If guidelines or equipment are used incorrectly, either healthcare providers are educated or the guideline/equipment is adjusted.
-2. [**Input for research:**](12.3-input-for-research.md) If a knowledge gap is identified, research is initiated (literature search or consultation with an expert/researcher). Gained knowledge is shared with the team.
-3. [**Learning from variety / best Practices:**](12.4-learning-from-variety-or-best-practices.md) Healthcare providers learn from successful variations in practice where guidelines fall short, improving their performance to suit specific patients and contexts.
-4. [**Teamwork/Resilience Training:**](12.5-development-of-training-programs-or-educational-material.md) If teamwork or communication skills need improvement, training programs or educational materials are developed.
+1. [**Guideline/Equipment Adjustments**](13.1-protocol-or-equipment-adjustment.md)**:** If guidelines or equipment are used incorrectly, either healthcare providers are educated or the guideline/equipment is adjusted.
+2. [**Input for research:**](13.2-input-for-research.md) If a knowledge gap is identified, research is initiated (literature search or consultation with an expert/researcher). Gained knowledge is shared with the team.
+3. [**Learning from variety / best Practices:**](13.3-learning-from-variety-or-best-practices.md) Healthcare providers learn from successful variations in practice where guidelines fall short, improving their performance to suit specific patients and contexts.
+4. [**Teamwork/Resilience Training:**](13.4-development-of-training-programs-or-educational-material.md) If teamwork or communication skills need improvement, training programs or educational materials are developed.
 
 **Implementation**
 

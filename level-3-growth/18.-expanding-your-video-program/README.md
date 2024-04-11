@@ -1,4 +1,4 @@
-# 17. Expanding Your Video Program
+# 18. Expanding Your Video Program
 
 ## **Unlock the Power of Shared Insights**
 
@@ -15,9 +15,9 @@ Your video review program holds a wealth of valuable knowledge. Imagine the pote
 
 **Introduction:**
 
-Multi-center video review provides a fantastic opportunity to improve medical procedures across institutions. This manual outlines a simple process for collaboration between centers and fosters shared learning for better patient outcomes.
+[Multi-center video review ](https://app.gitbook.com/s/MdMcavmFWyJ3gxr9PXYq/summaries-articles/6.-multicenter-video-review)provides a fantastic opportunity to improve medical procedures across institutions. This manual outlines a simple process for collaboration between centers and fosters shared learning for better patient outcomes.
 
-#### **First, join our** [**Neoflix Network**](17.1-revolutionize-reflection-in-medical-care-join-the-network.md) **to connect with centers worldwide.**&#x20;
+#### **First, join our** [**Neoflix Network**](18.1-revolutionize-reflection-in-medical-care-join-the-network.md) **to connect with centers worldwide.**&#x20;
 
 #### **Step 1: Procedure Selection and Checklist Creation**
 

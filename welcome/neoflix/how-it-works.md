@@ -24,7 +24,7 @@ Video review transcends individual learning. It's a powerful tool for fostering 
 
 ### [<mark style="color:blue;">**Refine**</mark>](../../level-2-in-action/refine.md)
 
-By reviewing medical procedures with the entire team, you create a space to combine individual strengths and perspectives. Video analysis allows for [pinpointing areas for improvement](../../level-3-growth/16.-continuous-improvement.md). Therefore, video review empowers providers to address those areas for improvement in care, ultimately enhancing quality.&#x20;
+By reviewing medical procedures with the entire team, you create a space to combine individual strengths and perspectives. Video analysis allows for [pinpointing areas for improvement](../../level-3-growth/17.-continuous-improvement.md). Therefore, video review empowers providers to address those areas for improvement in care, ultimately enhancing quality.&#x20;
 
 **Successful video review requires careful integration into your department's routine and involvement from all disciplines. Therefore, it is important to consider the fundamentals of implementing video review first. Let's get started!**
 

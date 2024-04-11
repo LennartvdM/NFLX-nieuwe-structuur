@@ -19,7 +19,7 @@
 
 **Can parents see or have the video? How do you ensure they won't post it everywhere?**
 
-* **Considerations:** This may vary based on regulations and consent specifics. For example, in [neonatal care, parents value the review of a recording](https://app.gitbook.com/s/MdMcavmFWyJ3gxr9PXYq/summaries-articles/artikelen-eerder-van-onze-afdeling).&#x20;
+* **Considerations:** This may vary based on regulations and consent specifics. For example, in [neonatal care, parents value the review of a recording](https://app.gitbook.com/s/MdMcavmFWyJ3gxr9PXYq/summaries-articles/dive-in-the-history-of-video-review-in-our-nicu).&#x20;
 * **Answer:** Discuss parental access with your team. If permitted, have clear usage agreements covering distribution and social media restrictions, while emphasizing the risk of de-identification failure.
 
 **How do you ask healthcare workers for consent?**
@@ -62,7 +62,7 @@
 
 **How can you set up and expand video review? At what pace?**
 
-You can [expand video review](../../level-3-growth/16.-continuous-improvement.md) at the pace of the healthcare workers. It's important not to make them feel like it's being imposed on them. If they see the value themselves, they will naturally become enthusiastic and come up with their own ideas that can be used to implement video reflection.
+You can [expand video review](../../level-3-growth/17.-continuous-improvement.md) at the pace of the healthcare workers. It's important not to make them feel like it's being imposed on them. If they see the value themselves, they will naturally become enthusiastic and come up with their own ideas that can be used to implement video reflection.
 
 </details>
 
@@ -84,7 +84,7 @@ You can [expand video review](../../level-3-growth/16.-continuous-improvement.md
 
 **How do you use video reflection to improve quality (effectiveness)?**
 
-* **Answer:** [Identify actionable insights from discussions, develop and implement improvement plans, track changes or outcomes to evaluate success.](../../level-2-in-action/12.-improving-care-through-neoflix/)
+* **Answer:** [Identify actionable insights from discussions, develop and implement improvement plans, track changes or outcomes to evaluate success.](../../level-2-in-action/12.-improving-care-through-the-neoflix-approach.md)
 
 **Can you perform multi-center video reflection without feeling judged?**
 

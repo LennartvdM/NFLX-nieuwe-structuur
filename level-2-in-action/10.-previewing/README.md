@@ -1,4 +1,4 @@
-# 6. Previewing
+# 10. Previewing
 
 Previewing recorded procedures before in-depth review maximizes learning potential and is essential for the safe learning environment. Here's how to strategically pre-screen medical videos:
 
@@ -8,7 +8,7 @@ Previewing recorded procedures before in-depth review maximizes learning potenti
 * Provider Engagement: Previews allow recorded providers to highlight areas they are most interested in discussing.
 * Request Plenary Use Permission: Obtain explicit permission from the team to utilize the video and accompanying insights during the larger plenary review session.
 
-<figure><img src="../.gitbook/assets/Visualizatie sfeer neoflix.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Visualizatie sfeer neoflix.png" alt=""><figcaption></figcaption></figure>
 
 **Questions for Video-Assisted Debriefing**
 

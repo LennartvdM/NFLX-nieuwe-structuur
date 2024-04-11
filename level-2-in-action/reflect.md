@@ -4,4 +4,4 @@ The recording is done – now the real learning begins! Get ready to dive into r
 
 ### Highlight of Reflect
 
-The two most important sections of this level are [Previewing](10.-previewing.md) and [Let's Neoflix](11.-lets-neoflix/). Here, we will explain the importance and do's and don'ts of previewing a video before Neoflix. In addition, we will explain how to set up Neoflix to maximize safety and effectivity.&#x20;
+The two most important sections of this level are [Previewing](10.-previewing/) and [Let's Neoflix](11.-lets-neoflix/). Here, we will explain the importance and do's and don'ts of previewing a video before Neoflix. In addition, we will explain how to set up Neoflix to maximize safety and effectivity.&#x20;

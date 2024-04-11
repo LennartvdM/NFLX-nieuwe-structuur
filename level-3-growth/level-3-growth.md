@@ -4,6 +4,6 @@ Congratulations on successfully implementing your video review program! As your 
 
 ### **Highlights of Growth**
 
-A key aspect of this level is the [Expanding Your Video Review Program](17.-expanding-your-video-program/) section. Here, we'll show you how leveraging the multicenter video review can take your healthcare practices to the next level.
+A key aspect of this level is the [Expanding Your Video Review Program](18.-expanding-your-video-program/) section. Here, we'll show you how leveraging the multicenter video review can take your healthcare practices to the next level.
 
-Join the [Neoflix Network](17.-expanding-your-video-program/17.1-revolutionize-reflection-in-medical-care-join-the-network.md) for guidance on implementation of video review and elevate your video review practice.&#x20;
+Join the [Neoflix Network](18.-expanding-your-video-program/18.1-revolutionize-reflection-in-medical-care-join-the-network.md) for guidance on implementation of video review and elevate your video review practice.&#x20;
