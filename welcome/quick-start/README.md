@@ -53,7 +53,7 @@ We get it – the idea of adding video review to your already hectic routine can
 
 * **Start small:** Begin with short videos of simple tasks.
 * **Celebrate Successes:** Highlight strengths, not just areas for improvement.
-* **Foster Openness:** Create a safe environment for analysis and feedback. Use [feedback rules](../../level-2-in-action/11.-lets-neoflix/11.2-tasks-of-the-chair.md) to ensure a safe learning environment.&#x20;
+* **Foster Openness:** Create a safe environment for analysis and feedback. Use [feedback rules](../../level-2-in-action/11.-lets-neoflix/11.3-tasks-of-the-chair.md) to ensure a safe learning environment.&#x20;
 * **FAQ's:** You can use our[ FAQ's](faqs.md) to inform yourself about video review.
 
 **Let's get started using the power of video to enhance your work!**

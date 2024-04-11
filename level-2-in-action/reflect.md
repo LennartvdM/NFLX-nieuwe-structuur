@@ -4,4 +4,7 @@ The recording is done – now the real learning begins! Get ready to dive into r
 
 ### Highlight of Reflect
 
-The two most important sections of this level are [Previewing](10.-previewing/) and [Let's Neoflix](11.-lets-neoflix/). Here, we will explain the importance and do's and don'ts of previewing a video before Neoflix. In addition, we will explain how to set up Neoflix to maximize safety and effectivity.&#x20;
+1. [Previewing](10.-previewing/) a video with recorded providers before _Neoflix_. This section explains why this is important and provides you with questions you can ask during preview.&#x20;
+2. Thorough [preparation](11.-lets-neoflix/11.1-getting-the-most-out-of-your-neoflix-session.md) for _Neoflix_ to ensure the biggest success
+3. Establishing a [safe learning environment](11.-lets-neoflix/11.2-a-safe-learning-environment.md) and assigning [the chair](11.-lets-neoflix/11.3-tasks-of-the-chair.md) with tasks to ensure this.&#x20;
+4. Gather [participant feedback](11.-lets-neoflix/11.4-unlocking-insights.md) to analyze medical procedures from multiple angles.&#x20;

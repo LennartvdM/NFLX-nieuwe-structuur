@@ -72,7 +72,7 @@ You can [expand video review](../../level-3-growth/17.-continuous-improvement.md
 
 **Who guides video review?**
 
-* **Answer:** The[ chair](../../level-2-in-action/11.-lets-neoflix/11.2-tasks-of-the-chair.md) of the video review session. Representatives from all disciplines lead to more comprehensive discussions. Train them in facilitation and constructive feedback.
+* **Answer:** The[ chair](../../level-2-in-action/11.-lets-neoflix/11.3-tasks-of-the-chair.md) of the video review session. Representatives from all disciplines lead to more comprehensive discussions. Train them in facilitation and constructive feedback.
 
 **How do you edit videos to make them usable for video reflection? How do you ensure integration with software?**
 
@@ -80,7 +80,7 @@ You can [expand video review](../../level-3-growth/17.-continuous-improvement.md
 
 **How do you organize video reflection in a way that is safe and effective?**
 
-* **Answer:** Organizing video review with regards to the [safe learning environment](../../level-2-in-action/11.-lets-neoflix/11.1-a-safe-learning-environment.md) included clear feedback rules (specific, non-judgmental), skilled chairperson to guide discussions, time management, and focused preparation for each video segment.
+* **Answer:** Organizing video review with regards to the [safe learning environment](../../level-2-in-action/11.-lets-neoflix/11.2-a-safe-learning-environment.md) included clear feedback rules (specific, non-judgmental), skilled chairperson to guide discussions, time management, and focused preparation for each video segment.
 
 **How do you use video reflection to improve quality (effectiveness)?**
 

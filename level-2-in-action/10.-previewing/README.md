@@ -1,42 +1,16 @@
 # 10. Previewing
 
-Previewing recorded procedures before in-depth review maximizes learning potential and is essential for the safe learning environment. Here's how to strategically pre-screen medical videos:
+Previewing recorded procedures with the providers who were recorded, before in-depth plenary review during _Neoflix,_ maximizes learning potential and is essential for the safe learning environment. Here's how to strategically pre-screen medical videos.
 
-**Why Preview?**
+**Creating a foundation for a focused and safe review session**
 
-* Focus Review Sessions: Identify segments most relevant to your learning goals (technical skills, communication, decision-making, etc.).
-* Provider Engagement: Previews allow recorded providers to highlight areas they are most interested in discussing.
-* Request Plenary Use Permission: Obtain explicit permission from the team to utilize the video and accompanying insights during the larger plenary review session.
+* **Safety First:** It creates a safe space for recorded providers to express potential concerns before a larger audience, fostering an environment of trust and open communication.
+* **Insightful Sharing:** Providers gain the chance to share valuable context or insights about the situation, adding valuable depth for the team's understanding.
+* **Focused Review:** By previewing the video, the review session can be more targeted. The team comes prepared with specific points of discussion or questions, maximizing the session's impact.
+
+This preparatory step promotes a sense of collaboration and respect. It encourages constructive feedback, ultimately leading to a more productive and valuable learning experience for everyone involved.
+
+
 
 <figure><img src="../../.gitbook/assets/Visualizatie sfeer neoflix.png" alt=""><figcaption></figcaption></figure>
 
-**Questions for Video-Assisted Debriefing**
-
-**Opening Observation:**
-
-* "As you watch the video, what initial details and actions stand out to you?"
-
-**Positive Focus:**
-
-* "What aspects of the procedure went particularly well?"
-
-**Opportunities for Improvement:**
-
-* "Are there areas where you see potential for a different approach or refinement?"
-* "What elements, if any, could be further improved?"
-
-**Retrospective Insights:**
-
-* "Did the video reveal anything you didn't consciously notice during the procedure?"
-
-**Contextual Awareness:**
-
-* "Are there factors not visible in the video (like ward stress, time of day, etc.) that influenced the procedure and should be considered?"
-
-**Collaborative Support:**
-
-* "Do you have specific questions or areas where you'd like feedback from colleagues during the plenary session?"
-
-**Consent:**
-
-* "Do you consent to the use of this video and our discussion in the plenary video review session?"
