@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/0_0 (7).jpg
+coverY: 0
+---
+
 # Welcome
 
 
