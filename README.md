@@ -1,6 +1,6 @@
 # Welcome
 
-**Welcome to our interactive guide.** \
+**Elevate Your Medical Practice**\
 \
 Whether you're looking to refine your skills, start with essential basics, or dive deep into our innovative Neoflix program, you've come to the right place. Our documentation is tailored to help healthcare professionals, educators, and administrators enhance their impact in medical settings through continuous learning and effective practices.
 
