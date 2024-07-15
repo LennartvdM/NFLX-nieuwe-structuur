@@ -2,7 +2,7 @@
 
 ## Welcome
 
-* [Welcome test](README.md)
+* [Welcome \[test!\]](README.md)
 * [Who is this for?](welcome/who-is-this-for.md)
 * [Quick-start](welcome/quick-start/README.md)
   * [FAQ's](welcome/quick-start/faqs.md)
