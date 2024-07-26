@@ -28,10 +28,10 @@
   * [3.2 Simple](level-1-fundamentals/3.-safe-simple-and-small/3.2-simple.md)
   * [3.3 Small](level-1-fundamentals/3.-safe-simple-and-small/3.3-small.md)
 * [4. Learning from success stories](level-1-fundamentals/4.-learning-from-success-stories/README.md)
-  * [NICU Philadelphia](level-1-fundamentals/4.-learning-from-success-stories/nicu-philadelphia.md)
-  * [NICU Vienna](level-1-fundamentals/4.-learning-from-success-stories/nicu-vienna.md)
-  * [NICU Australia](level-1-fundamentals/4.-learning-from-success-stories/nicu-australia.md)
-  * [NICU LUMC](level-1-fundamentals/4.-learning-from-success-stories/nicu-lumc.md)
+  * [NICU in Philadelphia, Pennsylvania, USA](level-1-fundamentals/4.-learning-from-success-stories/nicu-in-philadelphia-pennsylvania-usa.md)
+  * [NICU in Vienna, Austria](level-1-fundamentals/4.-learning-from-success-stories/nicu-in-vienna-austria.md)
+  * [NICU in Melbourne, Australia](level-1-fundamentals/4.-learning-from-success-stories/nicu-in-melbourne-australia.md)
+  * [NICU in Leiden, the Netherlands](level-1-fundamentals/4.-learning-from-success-stories/nicu-in-leiden-the-netherlands.md)
   * [4.1 Share your experience](level-1-fundamentals/4.-learning-from-success-stories/4.1-share-your-experience.md)
 
 ## LEVEL 2: In Action

@@ -1,26 +1,27 @@
-# NICU Australia
+# NICU in Melbourne, Australia
 
-#### Fixed cameras recording neonatal stabilization
+## Neonatal Intensive Care Unit (NICU) of the Ritchie Centre, Monash University
 
-**Type of recording:**
+**Type of recording**
 
+* Fixed cameras recording neonatal stabilization
 * Infant is visible, hands and arms of providers, voice clearly audible.
 * Equipment: GoPro camera (full room-view of delivery room), including view of respiratory parameters through a wide-angle lens (removable attachment), fixed to resuscitator using magnets.
 * Challenge: overheating of camera
 
-**Patient Consent:**
+**Patient Consent**
 
 * Waiver of parental consent to use for educational and quality assurance activities at Monash Health since 2019. Researchers are obligated to keep the videos in a password-protected secure location for 7 years in accordance with Victoria, Australia standards.
 * If researchers want to use the data for research, they have submitted additional ethics applications.
 * If researchers want to use individual videos for conferences, cases, or publications, they have used their hospital's standardized case report form to discuss with parents for consent.
 
-**Provider Consent:**
+**Provider Consent**
 
 * Verbal acknowledgement prior to videoing and a more formal verbal (or email/text) consent prior to using for reviewing is obtained.
 * Review sessions tend to be at junior doctor learning sessions or nursing in-services, which are separate. Typically, they will seek the permission of the fellow managing the airway and the nurse in charge of the monitoring.
 * They have standing consent from all consultants and get permission from other providers who may have made contact with the baby as needed, depending on their level of involvement.
 
-**Review use:**
+**Review use**
 
 * This center has had 64 formal learning sessions on record with a sign-in sheet that also doubles as consent for the rules of participation in a video review session: Everyone in the room and on the video is smart, well-trained, trying their best, wants to improve, and everything in the session is confidential.
 * In the last 4.5 years (since starting in Sept 2019 through Jan 2024), they have recorded 108 resuscitations. 37 videos have been formally reviewed. This center has run 64 total formal sessions, 37 for junior doctors, 9 for RNs, 8 for mixed groups (junior doctors and consultants, multiple disciplinary QI groups), and 10 private 1:1 coaching sessions, totaling 408 participants.
