@@ -15,16 +15,14 @@ We get it – the idea of adding video review to your already hectic routine can
 #### **1. Planning:**
 
 * [ ] **Set Goals:** Determine what you want to achieve with video review (e.g., skill improvement, process efficiency).
-* [ ] **Secure Support:** Explain the benefits to colleagues and management to gain their buy-in. Make sure the team is prepared and have multiple meetings to explain the goal of video review to all involved providers. Make sure to inform management staff and obtain permission.&#x20;
-* [ ] **Address Privacy:** Draft a clear policy on consent, video storage, and access. Click [here ](../../level-1-fundamentals/3.-safe-simple-and-small/)for more information.&#x20;
+* [ ] **Secure Support:** Explain the benefits to colleagues and management to gain their buy-in. Make sure the team is prepared and have multiple meetings to explain the goal of video review to all involved providers. Make sure to inform management staff and obtain permission.
+* [ ] **Address Privacy:** Draft a clear policy on consent, video storage, and access. Click [here ](../../level-1-fundamentals/3.-safe-simple-and-small)for more information.
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td><mark style="color:green;">By doing this, you will gain your team's trust and be able to answer all their questions.</mark></td><td></td></tr><tr><td></td><td><mark style="color:red;">Without doing this, your team may lose trust in you and question the project's purpose. Additionally, you might not receive the necessary support from management.</mark></td><td></td></tr></tbody></table>
 
-
-
 2. **Pilot Test:**
 
-* [ ] **Form your **_**Neoflix**_** pioneer team:** These are providers who are involved in the video review program and are willing to be the first to be recorded and who can convey the message of video review to the team.
+* [ ] **Form your** [**pioneer team**](../../level-1-fundamentals/2.-planning-your-initiative/2.1-pioneer-team.md)**.** These are providers who are involved in the video review program, willing to be the first to be recorded and who can convey the message of video review to the team.
 * [ ] **Choose a Low-Stakes Task:** Start with a familiar, routine procedure for your first recording.
 * [ ] **Keep Setup Simple:** Use a smartphone or enlist tech help if needed.
 * [ ] **Watch and Learn:** Review the video with those involved, focus on positives, and identify areas for growth.
@@ -33,19 +31,19 @@ We get it – the idea of adding video review to your already hectic routine can
 
 3. **First Review Session:**
 
-* **Feedback rules:** The most important part of organizing video review, is maintaining the safe learning environment.&#x20;
-  * You can enhance this by using feedback rules, i.e., be specific and to the point, focus on behavior and do not make it personal, describe the situation without judgement. &#x20;
-* **Set a Positive Tone:** Emphasize learning and improvement in a supportive space.
-* **Thank Participants:** Acknowledge the value of those who agreed to be recorded.
-* **Facilitate Discussion:** Guide participants to share insights from the video.
-* **End with Takeaways:** Summarize key learnings.
+* [ ] **Feedback rules:** The most important part of organizing video review, is maintaining the safe learning environment.
+  * You can enhance this by using feedback rules, i.e., be specific and to the point, focus on behavior and do not make it personal, describe the situation without judgement.
+* [ ] **Set a Positive Tone:** Emphasize learning and improvement in a supportive space.
+* [ ] **Thank Participants:** Acknowledge the value of those who agreed to be recorded.
+* [ ] **Facilitate Discussion:** Guide participants to share insights from the video.
+* [ ] **End with Takeaways:** Summarize key learnings.
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td><mark style="color:green;">You'll create a structured session for participants to safely express their views, providing concrete areas for improvement that you can immediately act upon.</mark></td><td></td></tr><tr><td></td><td><mark style="color:red;">Without careful planning of your first review session, you risk receiving judgmental feedback, making recorded providers feel unappreciated, leading to poorly guided sessions, and creating uncertainty about how insights will be used.</mark></td><td></td></tr></tbody></table>
 
 4. **Reflect and Expand:**
 
-* **Get Team Feedback:** Evaluate the session's effectiveness by making an overview on lessons learned and identified areas for improvement. Ask for your team's feedback on the session, on what they learned from the session and how they experienced the safe learning environment. &#x20;
-* **Build Your Program:** Based on the pilot and your team's feedback, develop guidelines and expand your video review program.
+* [ ] **Get Team Feedback:** Evaluate the session's effectiveness by making an overview on lessons learned and identified areas for improvement. Ask for your team's feedback on the session, on what they learned from the session and how they experienced the safe learning environment.
+* [ ] **Build Your Program:** Based on the pilot and your team's feedback, develop guidelines and expand your video review program.
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td><mark style="color:green;">This approach allows your team to provide feedback and share experiences, enabling you to tailor the video review program for a better fit within your department.</mark></td><td></td></tr><tr><td></td><td><mark style="color:red;">Without taking the time to refelec,t you risk silencing team feedback and experiences, potentially creating a misaligned setup, and jeopardizing team buy-in.</mark></td><td></td></tr></tbody></table>
 
@@ -53,13 +51,13 @@ We get it – the idea of adding video review to your already hectic routine can
 
 * **Start small:** Begin with short videos of simple tasks.
 * **Celebrate Successes:** Highlight strengths, not just areas for improvement.
-* **Foster Openness:** Create a safe environment for analysis and feedback. Use [feedback rules](../../level-2-in-action/11.-lets-neoflix/11.3-tasks-of-the-chair.md) to ensure a safe learning environment.&#x20;
+* **Foster Openness:** Create a safe environment for analysis and feedback. Use [feedback rules](../../level-2-in-action/11.-lets-neoflix/11.3-tasks-of-the-chair.md) to ensure a safe learning environment.
 * **FAQ's:** You can use our[ FAQ's](faqs.md) to inform yourself about video review.
 
 **Let's get started using the power of video to enhance your work!**
 
-See also [How it works](../neoflix/how-it-works.md):&#x20;
+See also [How it works](../neoflix/how-it-works.md):
 
-* [LEVEL 1: Fundamentals](broken-reference)
-* [LEVEL 2: In action](broken-reference)
-* [LEVEL 3: Growth](broken-reference)
+* [LEVEL 1: Fundamentals](broken-reference/)
+* [LEVEL 2: In action](broken-reference/)
+* [LEVEL 3: Growth](broken-reference/)

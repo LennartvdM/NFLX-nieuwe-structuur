@@ -20,8 +20,8 @@ Imagine recording and reviewing these crucial moments – giving you the power t
 
 With the right resource, like the _Neoflix toolbox_, implementing video review can be safe, respectful, and surprisingly easy to integrate:
 
-* Prioritizing privacy and respect
-* Designed for efficiency, fitting into busy schedules.
-* Connecting you with a global community for learning and growth.
+* **Prioritizing privacy and respect**
+* Designed for **efficiency**, fitting into busy schedules.
+* Connecting you with a **global community** for learning and growth.
 
 Away to optimize your workflow, lighten the load, and enhance patient outcomes – all at once. That's the promise of video review.

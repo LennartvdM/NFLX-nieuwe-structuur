@@ -23,4 +23,4 @@ Neoflix is on a mission to help medical teams worldwide improve their clinical p
 * **Drive research with real-world data:** Collaborate with medical centers worldwide to review recordings together. This collective intelligence unlocks hidden patterns and trends, illuminating best practices you might not have discovered on your own. Together, you can identify areas for future research and innovation, pushing the boundaries of patient care globally.
 * **Global network for sharing knowledge:** Learn from the best medical centers around the world, and contribute your own expertise.
 
-**Let us help you elevate patient care. Join the toolbox to see how **_**Neoflix**_** can empower your medical team.**
+**Let us help you elevate patient care and empower your medical team.**

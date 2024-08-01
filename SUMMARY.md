@@ -8,7 +8,7 @@
   * [FAQ's](welcome/quick-start/faqs.md)
 * [Neoflix](welcome/neoflix/README.md)
   * [Make every clinical encounter a learning opportunity](welcome/neoflix/make-every-clinical-encounter-a-learning-opportunity.md)
-  * [Streamlining neonatal Care: A Success Story](welcome/neoflix/streamlining-neonatal-care-a-success-story.md)
+  * [Streamlining neonatal Care: a success story](welcome/neoflix/streamlining-neonatal-care-a-success-story.md)
   * [How it works](welcome/neoflix/how-it-works.md)
 
 ## LEVEL 1: Fundamentals
