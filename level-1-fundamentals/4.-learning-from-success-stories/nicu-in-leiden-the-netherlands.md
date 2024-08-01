@@ -1,6 +1,6 @@
 # NICU in Leiden, the Netherlands
 
-## Neonatal Intensive Care Unit (NICU) of the Leiden University Medical Center
+## tal Intensive Care Unit (NICU) of the Leiden University Medical Center
 
 #### Type of recording <a href="#two-fixed-cameras-recording-neonatal-stabilization" id="two-fixed-cameras-recording-neonatal-stabilization"></a>
 
@@ -33,16 +33,10 @@
 * All recordings are stored an a protected local server, only designated team-members can access this server.
 * Identifiable recordings are removed after use, unidentifiable recordings are stored as part of the medical record of the patient and can be used for research purposes.
 
-**Pros**
+**If you have any questions, regarding this approach, feel free to contact this center at** <mark style="color:blue;">neoflix@lumc.nl</mark> **or** <mark style="color:blue;">r.witlox@lumc.nl</mark>
 
-* **Critical Event Capture:** Enables recording of urgent procedures where obtaining immediate consent from patients is impractical.
-* **Provider Autonomy:** Respects providers' choice to participate or not.
-* **Parent Engagement:** the unidentifiable recordings that are shared with parents enhance transparency and family-centered care.
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><p></p><p><mark style="color:green;"><strong>Pros</strong></mark></p><ul><li><strong>Critical Event Capture:</strong> Enables recording of urgent procedures where obtaining immediate consent from patients is impractical.</li><li><strong>Provider Autonomy:</strong> Respects providers' choice to participate or not.</li><li><strong>Parent Engagement:</strong> the unidentifiable recordings that are shared with parents enhance transparency and family-centered care.</li></ul></td><td></td><td></td></tr><tr><td></td><td></td><td><p><mark style="color:red;"><strong>Cons</strong></mark></p><ul><li><strong>Patient Privacy Concerns:</strong> The infant is visible in recordings, family can be visible.</li><li><strong>Limited Long-Term Research:</strong> Deleting identifiable recordings restricts their use for future research.</li><li><strong>Incomplete Data Set:</strong> Voluntary participation means not every procedure will be recorded as standard.</li></ul></td></tr></tbody></table>
 
-**Cons**
 
-* **Patient Privacy Concerns:** The infant is visible in recordings, family can be visible.
-* **Limited Long-Term Research:** Deleting identifiable recordings restricts their use for future research.
-* **Incomplete Data Set:** Voluntary participation means not every procedure will be recorded as standard.
 
-**If you have any questions, regarding this approach, feel free to contact this center at neoflix@lumc.nl or r.witlox@lumc.nl**
+<figure><img src="../../.gitbook/assets/Visualizatie sfeer neoflix (1).png" alt=""><figcaption></figcaption></figure>

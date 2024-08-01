@@ -1,6 +1,6 @@
 # NICU in Vienna, Austria
 
-## Neonatal Intenstive Care Unit (NICU) of the Medical University of Vienna
+## eonatal Intenstive Care Unit (NICU) of the Medical University of Vienna
 
 #### Type of recording
 
@@ -28,11 +28,6 @@
 
 * Recordings are deintified on password coded study team computer that is only accessible for study members
 
-#### Pros
+**If you have any questions, regarding this approach, feel free to contact this experienced center at** <mark style="color:blue;">michael.b.wagner@meduniwien.ac.at</mark>
 
-* Innovative quality improvement
-* Good acceptance of providers
-
-#### Cons
-
-* Privacy approvement and obtaining consent is challenging
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><p></p><h4><mark style="color:green;">Pros</mark></h4><ul><li>Innovative quality improvement</li><li>Good acceptance of providers</li></ul></td><td></td><td></td></tr><tr><td></td><td></td><td><p><mark style="color:red;"><strong>Cons</strong></mark></p><ul><li>Privacy approvement and obtaining consent is challenging</li></ul></td></tr></tbody></table>

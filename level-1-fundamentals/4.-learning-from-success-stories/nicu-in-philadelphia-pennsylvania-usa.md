@@ -44,7 +44,7 @@
 
 ### Fixed cameras in delivery rooms and operating room for c-sections
 
-#### Recording
+#### Type of recording
 
 * Dedicated resuscitation rooms: we have a birds-eye of the bed, a wide angle, and a video feed of the monitor. The wide angle captures providers faces so is identifiable. Audio is included
 * Equipment: LiveCapture
@@ -59,15 +59,7 @@
 
 * Videos are stored on a secure server that requires login. Only providers given permission by the audiovisual committee can access the videos.&#x20;
 
+**If you have any questions, regarding this approach, feel free to contact this experienced center at** <mark style="color:blue;">herrickh@chop.edu</mark>
 
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><p></p><p><mark style="color:green;"><strong>Pros</strong></mark></p><ul><li>The multidisciplinary video review sessions have been extremely well attended and are facilitating conversation across professions.</li></ul></td><td></td><td></td></tr><tr><td></td><td></td><td><h4><mark style="color:red;">Cons</mark></h4><ul><li>The biggest issue in the HUP is missing the beginning of unexpected, acute resuscitations, providers forgetting to press the start button of the recording equipment, or providers ending the video early. This is rare but does sometimes happen.</li><li>Video review is time consuming</li><li>The mobile set-up is challenging to get into place quickly and sometimes doesn't give a good view. </li><li>Eye-tracking is time-consuming to set up and to analyze. </li></ul></td></tr></tbody></table>
 
-<mark style="color:green;">**Pros**</mark>
-
-* Te multidisciplinary video review sessions have been extremely well attended and are facilitating conversation across professions.
-
-#### <mark style="color:red;">Cons</mark>
-
-* The biggest issue in the HUP is missing the beginning of unexpected, acute resuscitations, providers forgetting to press the start button of the recording equipment, or providers ending the video early. This is rare but does sometimes happen.
-* Video review is time consuming
-* The mobile set-up is challenging to get into place quickly and sometimes doesn't give a good view.&#x20;
-* Eye-tracking is time-consuming to set up and to analyze.&#x20;

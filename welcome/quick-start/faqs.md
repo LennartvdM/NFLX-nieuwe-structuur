@@ -6,7 +6,7 @@
 
 **What happens if a mistake is recorded?**
 
-* **Answer:** Mistakes should be reported regardless of video evidence. Clarify your hospital's incident reporting protocols. Regarding legal use of the video, consult legal experts as regulations vary by region. Emphasize that the video's primary purpose is for internal learning and quality improvement and recordings are not used for any other purpose. The [NICU at LUMC](../../level-1-fundamentals/4.-learning-from-success-stories/#nicu-lumc) has made video recordings of resuscitation procedures a standard part of care and also part of the patient file, so these videos are visible to patients.
+* **Answer:** Mistakes should be reported regardless of video evidence. Clarify your hospital's incident reporting protocols. Regarding legal use of the video, consult legal experts as regulations vary by region. Emphasize that the video's primary purpose is for internal learning and quality improvement and recordings are not used for any other purpose. The [NICU at LUMC](../../level-1-fundamentals/4.-learning-from-success-stories#nicu-lumc) has made video recordings of resuscitation procedures a standard part of care and also part of the patient file, so these videos are visible to patients.
 
 **How do you make it GDPR compliant?**
 
@@ -19,7 +19,7 @@
 
 **Can parents see or have the video? How do you ensure they won't post it everywhere?**
 
-* **Considerations:** This may vary based on regulations and consent specifics. For example, in [neonatal care, parents value the review of a recording](https://app.gitbook.com/s/MdMcavmFWyJ3gxr9PXYq/summaries-articles/dive-in-the-history-of-video-review-in-our-nicu).&#x20;
+* **Considerations:** This may vary based on regulations and consent specifics. For example, in [neonatal care, parents value the review of a recording](https://app.gitbook.com/s/MdMcavmFWyJ3gxr9PXYq/summaries-articles/dive-in-the-history-of-video-review-in-our-nicu).
 * **Answer:** Discuss parental access with your team. If permitted, have clear usage agreements covering distribution and social media restrictions, while emphasizing the risk of de-identification failure.
 
 **How do you ask healthcare workers for consent?**
@@ -34,7 +34,7 @@
 
 **How do you involve nurses?**
 
-* **Answer:** [Schedule video reflection](../../level-1-fundamentals/2.-planning-your-initiative/) around nursing shifts and accommodate their input in the process.
+* **Answer:** [Schedule video reflection](../../level-1-fundamentals/2.-planning-your-initiative) around nursing shifts and accommodate their input in the process.
 
 **What kind of equipment do you use? Can you also use additional signals (CTG, respiratory parameters, etc.)?**
 
@@ -42,7 +42,7 @@
 
 **What can be challenging in rolling out/implementing this project?**
 
-* [**Getting the team to turn on a camera**](../../level-2-in-action/6.-recording-equipment/)**:** At some point, this becomes more automatic, but it remains an extra step providers have to take in what is sometimes an "acute" setting,
+* [**Getting the team to turn on a camera**](../../level-2-in-action/6.-recording-equipment)**:** At some point, this becomes more automatic, but it remains an extra step providers have to take in what is sometimes an "acute" setting,
 
 **How do you store the videos?**
 
@@ -50,7 +50,7 @@
 
 **How do you inform a team when setting up Neoflix?**
 
-* **Answer:** Be [transparent about goals, benefits, and the emphasis on non-judgmental learning](../../level-1-fundamentals/2.-planning-your-initiative/2.2-gaining-team-buy-in.md). Start small, get early wins, and build enthusiasm.
+* **Answer:** Be [transparent about goals, benefits, and the emphasis on non-judgmental learning](../../level-1-fundamentals/2.-planning-your-initiative/2.2-gaining-team-buy-in/). Start small, get early wins, and build enthusiasm.
 
 **How much does it cost?**
 
@@ -124,7 +124,7 @@ You can [expand video review](../../level-3-growth/17.-continuous-improvement.md
 
 * We will delete the videos after the project. Before that, anyone can refuse to have a video used in Neoflix. We do not know whether they can be used in legal cases. This has also never happened since video reflection started in 2014.
 
-**Where/in what situations do you see or expect the most added value of Neoflix?**&#x20;
+**Where/in what situations do you see or expect the most added value of Neoflix?**
 
 * In acute or (neonatal) intensive care, it is difficult to reflect on complex/acute procedures, although they have a lot of influence on the patient or patient outcomes. Debriefing or evaluation of these moments is often limited by incomplete documentation or by recall bias (not being able to remember an event from the past well).
 * Recording care and discussing videos with healthcare professionals among themselves allows them to reflect on care exactly as it is, in complete transparency. In addition, healthcare professionals also have the opportunity to learn from each other, something that is becoming less and less possible as healthcare professionals become more experienced. Video reflection gives healthcare professionals the opportunity to gain new insights to improve quality of care.

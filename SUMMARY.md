@@ -21,7 +21,8 @@
   * [1.4 Unburdening the process](level-1-fundamentals/1.-preproduction/1.4-unburdening-the-process.md)
 * [2. Planning your initiative](level-1-fundamentals/2.-planning-your-initiative/README.md)
   * [2.1 Pioneer team](level-1-fundamentals/2.-planning-your-initiative/2.1-pioneer-team.md)
-  * [2.2 Gaining team buy-in](level-1-fundamentals/2.-planning-your-initiative/2.2-gaining-team-buy-in.md)
+  * [2.2 Gaining team buy-in](level-1-fundamentals/2.-planning-your-initiative/2.2-gaining-team-buy-in/README.md)
+    * [2.2.1 Resources](level-1-fundamentals/2.-planning-your-initiative/2.2-gaining-team-buy-in/2.2.1-resources.md)
   * [2.3 Tips & Tricks](level-1-fundamentals/2.-planning-your-initiative/2.3-tips-and-tricks.md)
 * [3. Safe, Simple & Small](level-1-fundamentals/3.-safe-simple-and-small/README.md)
   * [3.1 Safe](level-1-fundamentals/3.-safe-simple-and-small/3.1-safe.md)
@@ -36,7 +37,7 @@
 
 ## LEVEL 2: In Action
 
-* [LEVEL 2 In action](level-2-in-action/level-2-in-action.md)
+* [LEVEL 2: In action](level-2-in-action/level-2-in-action.md)
 * [RECORD](level-2-in-action/record.md)
 * [5. Preparation and Consent](level-2-in-action/5.-preparation-and-consent/README.md)
   * [5.1 Obtain Consent](level-2-in-action/5.-preparation-and-consent/5.1-obtain-consent.md)

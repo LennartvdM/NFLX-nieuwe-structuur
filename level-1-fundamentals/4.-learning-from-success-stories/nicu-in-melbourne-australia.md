@@ -40,17 +40,11 @@
 * Recordings are not part of the medical record of the patient.
 * Stored digitally in a password-protected, secure location. Researchers attempt to de-identify files by using a QA project number.
 
-**Pros**
-
-* Critical Event Capture: Enables recording of urgent procedures where obtaining immediate consent from patients is impractical.
-* Provider Autonomy: Respects providers' choice to participate or not.
-* One camera: Through the wide-angle lens, researchers only require one camera to obtain a view of the procedure and the respiratory parameters.
-
-**Cons**
-
-* Patient Privacy Concerns: The infant is visible in recordings, and family can be visible.
-* Recordings are not part of the medical record of the patient and/or shared with parents.
-
 **If you have any questions, regarding this approach, feel free to contact this experienced center at** [doug.blank@monash.edu](mailto:doug.blank@monash.edu)\
 \
 ![](../../.gitbook/assets/image.png)![](<../../.gitbook/assets/image (1).png>)![](<../../.gitbook/assets/image (2).png>)
+
+
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><p></p><p><mark style="color:green;"><strong>Pros</strong></mark></p><ul><li>Critical Event Capture: Enables recording of urgent procedures where obtaining immediate consent from patients is impractical.</li><li>Provider Autonomy: Respects providers' choice to participate or not.</li><li>One camera: Through the wide-angle lens, researchers only require one camera to obtain a view of the procedure and the respiratory parameters.</li></ul></td><td></td><td></td></tr><tr><td></td><td><p><mark style="color:red;"><strong>Cons</strong></mark></p><ul><li>Patient Privacy Concerns: The infant is visible in recordings, and family can be visible.</li><li>Recordings are not part of the medical record of the patient and/or shared with parents.</li></ul></td><td></td></tr></tbody></table>
+
