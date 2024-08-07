@@ -1,15 +1,33 @@
 # Streamlining neonatal Care: a success story
 
-In the high-pressure world of neonatal care, a single decision can change a life. Every intervention requires rapid response, precise procedures, and seamless coordination across an entire team. The neonatal intensive care team of the Leiden University Medical Center (LUMC) harnessed the power of video review, transforming the way they approach their life-saving work.
+## Neonatal Intensive Care Video Review: A Case Study from Leiden University Medical Center <a href="#neonatal-intensive-care-video-review-a-case-study-from-leiden-university-medical-center" id="neonatal-intensive-care-video-review-a-case-study-from-leiden-university-medical-center"></a>
 
-## **The journey: from recording to refining**
+The neonatal intensive care unit (NICU) at Leiden University Medical Center (LUMC) implemented video recording and review processes to enhance patient care and team performance. This case study examines the evolution and impact of these practices over more than a decade.
 
-The Leiden University Medical Center (LUMC) is a tertiary university-affiliated hospital, containing a 25-bed NICU, annually admitting 500-600 neonates.
+### **Background**
 
-* **Revealing insights through video recording:** in 2009, the NICU of the LUMC implemented recording of neonatal stabilization for research purposes. Recordings captured the hands of the caregivers, the infant and the physiological parameters. It led to [many discoveries](https://app.gitbook.com/s/MdMcavmFWyJ3gxr9PXYq/summaries-articles/dive-in-the-history-of-video-review-in-our-nicu) about physiology, but also guideline compliance, showing that caregivers frequently diverged from guidelines and documentation was often insufficient. The medical team found that the process quickly became natural, fading seamlessly into the background of their critical work.
-* **The power of team conference:** weekly video review of neonatal stabilization was implemented in 2014 by the NICU of the LUMC, with mostly medical staff attending. Video review didn't replace debriefings; it supercharged them. The team discussed the footage together, pinpointing strengths, identifying improvement areas, and developing better strategies based on the shared experience. Video review resulted in [improved guideline compliance and documentation](https://app.gitbook.com/s/MdMcavmFWyJ3gxr9PXYq/summaries-articles/dive-in-the-history-of-video-review-in-our-nicu).
-* **Expanding video review:** since 2021, video review was [expanded](../../level-1-fundamentals/4.-learning-from-success-stories) to other neonatal procedures, such as endotracheal intubation and sterile procedures. The focus of video review was on including both medical and nursing staff. In addition, audio was recorded, to enable evaluation of teamwork and communication. This expanded way of video review was not only[ accepted by providers](https://app.gitbook.com/s/MdMcavmFWyJ3gxr9PXYq/summaries-articles/3.-providers-perspective), but also appreciated. Video review resulted in a [continuous learning and improvement process](https://app.gitbook.com/s/MdMcavmFWyJ3gxr9PXYq/summaries-articles/4.-record-reflect-and-refine) on the NICU and was used in various ways to improve care.
+LUMC is a tertiary university-affiliated hospital with a 25-bed NICU that admits 500-600 neonates annually. In 2009, the unit began recording neonatal stabilization procedures for research purposes. These recordings captured provider actions, infant responses, and physiological parameters.
 
-## **The Promise of Video Review**
+### **Initial findings**
 
-For this neonatal team, video review wasn't just a task; it's become a powerful tool. This case study is proof – in the relentless pursuit of excellence, video review offers a transformative advantage. The results of almost 20 years of experience in video review has resulted in the design of the _Neoflix Toolbox._
+Early analysis of the recordings revealed discrepancies between guideline recommendations and actual practice. Documentation was often found to be incomplete. Despite initial concerns, the recording process quickly became a routine part of care delivery.
+
+### **Implementation of team reviews**
+
+In 2014, the NICU instituted weekly video review sessions, primarily attended by medical staff. These reviews complemented existing debriefing practices, allowing the team to analyze procedures in detail. This process led to improved guideline adherence and more comprehensive documentation.
+
+### **Expansion of video review**
+
+From 2021, the NICU expanded its video review program to include additional procedures such as endotracheal intubation and sterile interventions. Key changes included:
+
+1. Broadening participation to include both medical and nursing staff
+2. Adding audio recording to assess team communication
+3. Focusing on continuous learning and care improvement
+
+Staff reception to the expanded program was positive, with many recognizing its value for professional development and patient care.
+
+### **Long-term impact**
+
+Over two decades of video review implementation at LUMC has yielded significant insights and improvements in neonatal care. This experience informed the development of the Neoflix Toolbox, a resource designed to help other NICUs implement similar programs.
+
+The LUMC case demonstrates the potential of systematic video review in high-stakes medical environments. By providing objective data for analysis, this approach enables ongoing refinement of clinical practices and team dynamics. As neonatal care continues to advance, video review may become an increasingly important tool for ensuring optimal patient outcomes and staff performance.

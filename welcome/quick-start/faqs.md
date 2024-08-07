@@ -50,7 +50,7 @@
 
 **How do you inform a team when setting up Neoflix?**
 
-* **Answer:** Be [transparent about goals, benefits, and the emphasis on non-judgmental learning](../../level-1-fundamentals/2.-planning-your-initiative/2.2-gaining-team-buy-in/). Start small, get early wins, and build enthusiasm.
+* **Answer:** Be [transparent about goals, benefits, and the emphasis on non-judgmental learning](../../level-1-fundamentals/2.-planning-your-initiative/2.2-gaining-team-buy-in.md). Start small, get early wins, and build enthusiasm.
 
 **How much does it cost?**
 

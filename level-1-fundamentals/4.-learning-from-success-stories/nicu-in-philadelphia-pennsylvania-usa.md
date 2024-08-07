@@ -1,6 +1,42 @@
 # NICU in Philadelphia, Pennsylvania, USA
 
-## Hospital of the University of Pennsylvania: Level III NICU
+### Meet the Expert
+
+The Hospital of the University of Pennsylvania Level III NICU implemented video recording and review of neonatal procedures in XXXX. Heide Herrick and Liz Foglia oversee the ongoing program. We will dive into their set-up and lessons learned. You will also find some contact details if you have any other questions for this center.&#x20;
+
+**Recording Setup**
+
+* Fixed cameras are used in the delivery room.
+* Mobile and eye-tracking devices are used in the unit.
+* In the resuscitation room, there is a bird’s-eye view of the bed, a C-section room view, a wide-angle camera, and a recording of the monitor with audio.
+* Livecapture and Tobii Pro II (mobile and eye-tracking, with audio) are used as devices.
+* Patient and provider identification is visible.
+
+**Consent**
+
+* Parental consent is obtained with admission consent, and there is an option to opt-out. No additional consent is needed for internal review. Videos are deleted after 28 days unless further consent is obtained for post-28 day use or external education.
+* Providers are informed of video use, and no consent is required for recording, review, quality improvement, or research. Consent is needed for external education.
+
+**Video Use**
+
+* Videos are not shown to parents.
+* Providers can review videos individually or participate in facilitated review sessions.
+* Videos are not part of the medical record.
+* Videos are used for quality assurance, quality improvement, education, and research.
+
+**Video Review**
+
+* Fellows conduct unit-wide video review six times a year.
+* Video review is used for clinical purposes and targeted quality improvement projects.
+
+**Storage**
+
+* Videos are stored on a secure server accessible when in the hospital or via remote desktop access.
+* All NICU providers have access.
+
+### Meet the expert
+
+The level III NICU from the Hospital of the University of Pennsylvania has successfully implemented video recording and reviewing neonatal procedures in XXXX. To date, they continue with their video review program, under guidance of Heide Herrick and Liz Foglia. Below, we will share the set-up from this center and highlight how they use video review.&#x20;
 
 #### Type of recording
 
