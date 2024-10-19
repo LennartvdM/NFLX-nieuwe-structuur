@@ -1,6 +1,6 @@
 # NICU in Vienna, Austria
 
-## eonatal Intenstive Care Unit (NICU) of the Medical University of Vienna
+## Neonatal Intenstive Care Unit (NICU) of the Medical University of Vienna
 
 #### Type of recording
 

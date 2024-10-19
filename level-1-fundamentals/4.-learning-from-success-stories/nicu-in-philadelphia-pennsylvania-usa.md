@@ -2,7 +2,7 @@
 
 ### Meet the Expert
 
-The Hospital of the University of Pennsylvania Level III NICU implemented video recording and review of neonatal procedures in XXXX. Heide Herrick and Liz Foglia oversee the ongoing program. We will dive into their set-up and lessons learned. You will also find some contact details if you have any other questions for this center.&#x20;
+The Hospital of the University of Pennsylvania Level III NICU implemented video recording and review of neonatal procedures in their unit. Heidi Herrick and Liz Foglia oversee the ongoing program. We will dive into their set-up and lessons learned. You will also find some contact details if you have any other questions for this center.&#x20;
 
 **Recording Setup**
 
