@@ -1,8 +1,8 @@
 # NICU in Philadelphia, Pennsylvania, USA
 
-### Meet the Expert
+The Hospital of the University of Pennsylvania, Level III NICU and the Children's Hospital of Philadelphia, Level IV NICU implemented video recording and review of neonatal procedures in their unit. Heidi Herrick and Liz Foglia oversee the ongoing program. We will dive into their set-up and lessons learned. You will also find some contact details if you have any other questions for this center.&#x20;
 
-The Hospital of the University of Pennsylvania Level III NICU implemented video recording and review of neonatal procedures in their unit. Heidi Herrick and Liz Foglia oversee the ongoing program. We will dive into their set-up and lessons learned. You will also find some contact details if you have any other questions for this center.&#x20;
+### The Hospital of the University of Pennsylvania, Level III NICU
 
 **Recording Setup**
 
@@ -34,51 +34,7 @@ The Hospital of the University of Pennsylvania Level III NICU implemented video 
 * Videos are stored on a secure server accessible when in the hospital or via remote desktop access.
 * All NICU providers have access.
 
-### Meet the expert
-
-The level III NICU from the Hospital of the University of Pennsylvania has successfully implemented video recording and reviewing neonatal procedures in XXXX. To date, they continue with their video review program, under guidance of Heide Herrick and Liz Foglia. Below, we will share the set-up from this center and highlight how they use video review.&#x20;
-
-#### Type of recording
-
-* Fixed cameras in delivery room and mobile and eye-tracking devices in unit
-* Birds-eye of bed in resuscitation room, C-section room, wide angle camera and a recording of the monitor, including audio
-  * Device: Livecapture
-* Mobile device and eye-tracking, including audio
-  * Tobii Pro II
-* Patients and providers are identifiable
-
-#### &#x20;Patient consent
-
-* Parental consent is obtained as part of the admission consent for treatment. They have the option to opt-out. No extra consent is needed to review the video internally at the institution.
-* Video is deleted afte 28 days.
-* If video is needed for use after 28, extra consent is obtained. If video is needed for education outside of HUP, extra consent is obtained.&#x20;
-
-#### Provider consent
-
-* No consent is asked for recording or reviewing a video, however they are informed if a video will be used.&#x20;
-* No consent is asked for use of videos for quality improvement or research
-* If videos are used for education outside of HUP, consent is obtained.&#x20;
-
-#### Video recording use
-
-* Videos are not shown to parents
-* All providers are able to review the video individually, or one-on-one facilitated review.&#x20;
-* Not part of the medical record
-* Recording for quality assurance, quality improvement, educational purposes and research purposes.&#x20;
-
-#### Video review use
-
-* The HUP has formal unit wide video review done by fellows six times per year.&#x20;
-* Video review is used for clinical purposes and for targeted quality improvement projects.&#x20;
-
-#### Storage
-
-* Videos are stored on a secure server only accessible when in the hospital or via remote desktop access.
-* All providers who work in the NICU have access.&#x20;
-
 ## Children's Hospital of Philadelphia: Level IV NICU
-
-### Fixed cameras in delivery rooms and operating room for c-sections
 
 #### Type of recording
 
