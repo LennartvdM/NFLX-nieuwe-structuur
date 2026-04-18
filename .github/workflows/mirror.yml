@@ -1,0 +1,79 @@
+# Mirrors this repo's working tree into docs-content/ of
+# LennartvdM/frmrduplicate on every push to main.
+#
+# docs-content/ in the destination is EXCLUSIVELY mirror-owned.
+# Do not commit files there by hand — they will be deleted on the
+# next mirror run. GitBook (via this repo) is the source of truth.
+#
+# One-way only. Never writes back from destination to source.
+
+name: Mirror to frmrduplicate/docs-content
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: mirror-to-frmrduplicate
+  cancel-in-progress: false
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source (NFLX-nieuwe-structuur)
+        uses: actions/checkout@v4
+        with:
+          path: source
+          fetch-depth: 1
+
+      - name: Checkout destination (frmrduplicate)
+        uses: actions/checkout@v4
+        with:
+          repository: LennartvdM/frmrduplicate
+          token: ${{ secrets.MIRROR_PAT }}
+          path: destination
+          ref: main
+          fetch-depth: 1
+
+      - name: Sync source tree into destination/docs-content/
+        run: |
+          set -euo pipefail
+          mkdir -p destination/docs-content
+          # Mirror everything from source/ into destination/docs-content/,
+          # deleting files that no longer exist upstream.
+          # Exclude .git/ (source repo metadata) and .github/ (this
+          # workflow itself — we don't want it inside docs-content).
+          # .gitbook/assets/ is intentionally NOT excluded — the build
+          # relies on those original filenames.
+          rsync -a --delete \
+            --exclude='.git/' \
+            --exclude='.github/' \
+            source/ destination/docs-content/
+
+      - name: Commit and push if changed
+        working-directory: destination
+        env:
+          SRC_SHA: ${{ github.sha }}
+        run: |
+          set -euo pipefail
+          git config user.name  "gitbook-mirror-bot"
+          git config user.email "gitbook-mirror-bot@users.noreply.github.com"
+          git add -A docs-content
+          if git diff --cached --quiet; then
+            echo "No changes to mirror."
+            exit 0
+          fi
+          git commit -m "mirror: sync from NFLX-nieuwe-structuur@${SRC_SHA}"
+          # Retry on race with concurrent pushes to destination main.
+          for attempt in 1 2 3; do
+            if git push origin main; then
+              echo "Pushed on attempt $attempt."
+              exit 0
+            fi
+            echo "Push failed on attempt $attempt; rebasing and retrying."
+            git pull --rebase origin main
+          done
+          echo "Push failed after retries." >&2
+          exit 1
